@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tab-btn{
+
+display: inline-block;
+
+background: red;
+
+padding: 21px;
+
+font-size: 32px;
+
+text-transform: uppercase;
+color: white;
+}
+.tab{
+    
+background: #192206;
+    
+color: white;
+    
+height: 400px;
+    
+margin-bottom: 10px;
+    
+text-align: center;
+    
+font-size: 50px;
+    
+text-transform: uppercase;
+    
+font-weight: 600;
+    
+line-height: 370px;
+}
